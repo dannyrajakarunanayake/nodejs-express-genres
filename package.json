@@ -16,7 +16,7 @@
     "joi": "^14.3.1",
     "joi-objectid": "^3.0.1",
     "jshint": "^2.11.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongoose": "^5.9.7",
     "underscore": "^1.9.2"
   }
